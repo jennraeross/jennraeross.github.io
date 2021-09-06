@@ -1,3 +1,35 @@
 @media only screen and (min-width: 1028px) {
     
+    /** Nav Rules */
+    nav ul {
+        padding-left: 2%;
+    }
+    nav ul li {
+        flex-basis: auto;
+    }
+    nav a {
+        padding: .5rem 1rem;
+    }
+
+    /** Main Rules */
+    main figure {
+        width: 31%;
+    }
+
+    div.news {
+        column-count: 3;
+    }
+
+    /* Set Max Width */
+    main, nav ul, .header-content {
+        max-width: 75rem;
+        margin: auto;
+    }
+    header {
+        padding: 0;
+        margin: 0;
+    }
+    .header-content {
+        padding: 1rem 2%;
+    }
 }

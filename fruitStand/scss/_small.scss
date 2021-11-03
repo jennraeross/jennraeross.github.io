@@ -66,18 +66,18 @@ nav {
     }
     li.active {
         background-color: lighten($primaryColor, 15%);
-        a {
-            color: #000;
-        }
     }
     a {
         display: block;
         padding: .8rem 0; /*44px min*/
-        color: #eee;
+        color: #111;
         text-align: center;
         text-decoration: none;
     }
-    a:hover {background-color: darken($primaryColor, 15%);}
+    a:hover {
+        background-color: darken($primaryColor, 25%);
+        color: #eee;
+    }
 }
 
 #mainWrapper {
@@ -115,7 +115,7 @@ main {
 footer {
     text-align: center;
     padding: 1rem $gutter;
-    color: white;
+    color: #111;
 }
 .hero{
     width: 100%; 

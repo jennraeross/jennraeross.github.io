@@ -489,7 +489,7 @@ header img {
 
 #navWrapper {
   width: 100%;
-  background-color: #e65c00;
+  background-color: #fa8d45;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -509,21 +509,19 @@ nav li {
   float: left;
 }
 nav li.active {
-  background-color: #ff8534;
-}
-nav li.active a {
-  color: #000;
+  background-color: #fcbb8f;
 }
 nav a {
   display: block;
   padding: 0.8rem 0;
   /*44px min*/
-  color: #eee;
+  color: #111;
   text-align: center;
   text-decoration: none;
 }
 nav a:hover {
-  background-color: #9a3d00;
+  background-color: #ba4d05;
+  color: #eee;
 }
 
 #mainWrapper {
@@ -536,7 +534,7 @@ main {
   max-width: 71.25rem;
 }
 main h1 {
-  color: #e65c00;
+  color: #fa8d45;
   font-weight: 700;
   margin: 1rem 2%;
 }
@@ -555,13 +553,13 @@ main .gallery figure img {
 }
 
 #footerWrapper {
-  background-color: #e65c00;
+  background-color: #fa8d45;
 }
 
 footer {
   text-align: center;
   padding: 1rem 2%;
-  color: white;
+  color: #111;
 }
 
 .hero {

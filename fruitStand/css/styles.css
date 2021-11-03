@@ -484,7 +484,7 @@ header .headerText h2 {
 header img {
   display: block;
   float: left;
-  height: 5rem;
+  height: 100px;
 }
 
 #navWrapper {

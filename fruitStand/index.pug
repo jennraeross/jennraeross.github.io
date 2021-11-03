@@ -1,0 +1,71 @@
+doctype html
+html(lang="en")
+    head
+        meta(charset='utf-8')
+        meta(name='description' content='Fill Me In')
+        meta(name='author' content='Jennifer Roylance')
+        title Rieland Fruit Stands
+        // TELLS PHONES NOT TO LIE ABOUT THEIR WIDTH & stops the font from enlarging when a phone is turned sideways
+        meta(name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1')
+        // STYLE SHEETS
+        link(rel="preconnect" href="https://fonts.googleapis.com")
+        link(rel="preconnect" href="https://fonts.gstatic.com" crossorigin)
+        link(href="https://fonts.googleapis.com/css2?family=Inter:wght@300;700&display=swap" rel="stylesheet")
+        link(href='css/styles.css' rel='stylesheet')
+    #headerWrapper
+        header
+            img(src="images/orange.svg" alt="logo")
+            .headerText
+                h1 Rieland Fruit Stands
+                h2 From our Orchards, to your Table.
+
+    #navWrapper
+        nav.clearfix
+            ul
+                li
+                    a(href='#') Locations
+                li
+                    a(href='#') Standards
+                li.active
+                    a(href='index.html') Produce
+                li
+                    a(href='#') Partners       
+    #mainWrapper     
+        main
+            h1 Produce
+            .gallery 
+                figure 
+                    img(src="images/apple.webp")
+                    figcaption Apples
+
+                figure 
+                    img(src="images/canteloupe.webp")
+                    figcaption Canteloupe
+
+                figure 
+                    img(src="images/corn.webp")
+                    figcaption Corn 
+
+                figure 
+                    img(src="images/oranges.webp")
+                    figcaption Oranges 
+
+                figure 
+                    img(src="images/raspberry.webp")
+                    figcaption Raspberries 
+
+                figure 
+                    img(src="images/strawberry.webp")
+                    figcaption Strawberries 
+
+                figure 
+                    img(src="images/tomato.webp")
+                    figcaption Tomatoes 
+
+                figure 
+                    img(src="images/watermelon.webp")
+                    figcaption Watermelons
+        
+    #footerWrapper
+        footer
+            | &copy; Jennifer Roylance 2021

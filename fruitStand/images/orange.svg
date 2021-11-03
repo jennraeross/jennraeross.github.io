@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="orange.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="100px"
+     inkscape:snap-page="true"
+     inkscape:zoom="4.9876179"
+     inkscape:cx="57.642747"
+     inkscape:cy="53.833314"
+     inkscape:window-width="1904"
+     inkscape:window-height="998"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3388"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3384">
+      <ellipse
+         style="display:none;fill:#000000;stroke:#ff0000;stroke-width:0.264583;stroke-opacity:1"
+         id="ellipse3386"
+         cx="6.1145115"
+         cy="6.3187261"
+         rx="2.0209022"
+         ry="1.8964672"
+         d="M 8.1354136,6.3187261 A 2.0209022,1.8964672 0 0 1 6.1145115,8.2151933 2.0209022,1.8964672 0 0 1 4.0936093,6.3187261 2.0209022,1.8964672 0 0 1 6.1145115,4.4222589 2.0209022,1.8964672 0 0 1 8.1354136,6.3187261 Z" />
+      <path
+         id="lpe_path-effect3388"
+         style="fill:#000000;stroke:#ff0000;stroke-width:0.264583;stroke-opacity:1"
+         class="powerclip"
+         d="M -4.9589663,-3.9887724 H 30.274077 V 31.442372 H -4.9589663 Z M 8.1354136,6.3187261 A 2.0209022,1.8964672 0 0 0 6.1145115,4.4222589 2.0209022,1.8964672 0 0 0 4.0936093,6.3187261 2.0209022,1.8964672 0 0 0 6.1145115,8.2151933 2.0209022,1.8964672 0 0 0 8.1354136,6.3187261 Z" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3336">
+      <g
+         id="g3394"
+         style="fill:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:#ff6600;fill-rule:evenodd;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path38"
+           clip-path="url(#clipPath3384)"
+           inkscape:path-effect="#path-effect3388"
+           sodipodi:type="arc"
+           sodipodi:cx="12.657556"
+           sodipodi:cy="13.7268"
+           sodipodi:rx="12.616522"
+           sodipodi:ry="12.715572"
+           d="M 25.274077,13.7268 A 12.616522,12.715572 0 0 1 12.657556,26.442372 12.616522,12.715572 0 0 1 0.04103374,13.7268 12.616522,12.715572 0 0 1 12.657556,1.0112276 12.616522,12.715572 0 0 1 25.274077,13.7268 Z" />
+        <path
+           style="fill:#ff6600;stroke:#ff0000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 20.659312,5.7084658 c -0.109891,-0.8035917 0.243883,-1.4330204 0.559699,-2.1378772 0.538232,-1.2012573 1.1483,-1.7088888 2.287696,-2.341159 0.411384,-0.2282838 -0.07524,0.033505 0.39641,-0.28824149 0.177302,-0.1209513 0.849209,-0.45652462 1.06324,-0.50457795 0.0459,-0.0103045 0.09623,0.0140676 0.141116,0 0.317209,-0.0994167 -0.02974,-0.0811752 0.287206,-0.16121631 0.121509,-0.0306861 0.310518,-0.0329003 0.425627,-0.0882752 C 25.994999,0.10307995 26.249841,0 26.458333,0 25.912266,1.4898081 25.98729,3.1397225 25.246932,4.5741497 25.015008,5.0234958 24.637983,5.4034044 24.29186,5.7633789 23.963451,6.1049301 23.645636,6.4020075 23.174536,6.5203495 23.06492,6.5478853 22.797272,6.5702596 22.691094,6.5564056 22.486606,6.5297243 22.285058,6.3831553 22.098448,6.3044274 21.930967,6.2337699 21.754303,6.2241292 21.584752,6.162068 21.270083,6.0468883 20.962519,5.8533522 20.659312,5.7084658 Z"
+           id="path2386" />
+      </g>
+    </g>
+  </g>
+</svg>

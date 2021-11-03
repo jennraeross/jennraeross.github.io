@@ -1,0 +1,20 @@
+header {
+    .headerText {
+        h2 {
+            display: inline;
+        }
+    }
+}
+
+nav {
+    li {width:auto;}
+    a {padding: .5rem 1rem;}
+}
+
+main {
+    .gallery {
+        figure {
+            flex-basis: 29%;
+        }
+    }
+}

@@ -1,0 +1,12 @@
+nav {
+    li {width:auto;}
+    a {padding: .5rem 1rem;}
+}
+
+main {
+    .gallery {
+        figure {
+            flex-basis: 21%;
+        }
+    }
+}
